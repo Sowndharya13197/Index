@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Array {
+public class Index {
     public static void main(String args[])
     {
         int n,i;
